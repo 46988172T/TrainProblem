@@ -1,6 +1,6 @@
 /**
  * Created by Leonardo Martínez Ubal on 25/08/2016.
- */ 
+ */
 
 import java.util.ArrayList;
 
@@ -90,7 +90,4 @@ public class App {
             System.out.println("OUTPUT 5: "+grafo.distanciaEntre(ruta));
         }
     }
-
-
-
 }

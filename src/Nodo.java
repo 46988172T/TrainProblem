@@ -1,5 +1,5 @@
 /**
- * Created by Leosss on 25/08/2016.
+ * Created by Leonardo Martínez Ubal on 25/08/2016.
  */
 
 public class Nodo {
